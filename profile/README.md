@@ -1,5 +1,5 @@
 <div align="center">
   
-![Kinet Systems Banner](../banner.png)
+![Kinet Systems Banner](../assets/images/banner.png)
 
 </div>
